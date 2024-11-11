@@ -29,3 +29,15 @@ to install, follow the instructions on the website
 ## run programs as root without prompt
 
         myusername ALL = (root) NOPASSWD: /path/to/my/program
+        
+# ubuntu pro activation on ubuntu or any variants e.g. xubuntu, lubuntu etc
+
+# >>>free for personal subscription of up to 5 machines<<<
+
+Ubuntu Pro is a new, commercial version of Ubuntu, designed specifically for enterprise and business use cases. It is an extended support version of Ubuntu, which means it offers longer security and support updates, as well as additional features and tools to help organizations manage their Ubuntu deployments.
+
+feature list: https://ubuntu.com/pro
+
+how to enable the feature --> choose subscription "MYSELF" on https://ubuntu.com/pro/subscribe
+
+how to enable ubuntu pro: https://ubuntu.com/pro/tutorial
