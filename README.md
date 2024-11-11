@@ -16,7 +16,7 @@
         MAKEFLAGS="-j10(nproc)"
 
 ## manually import a specific recv key
-gpg --recv-keys 893e8e9432898e
+        gpg --recv-keys 893e8e9432898e
 
 ## [chaotix-aur for prebuilt packages](https://aur.chaotic.cx/)
 What it is
