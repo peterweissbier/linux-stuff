@@ -28,4 +28,4 @@ to install, follow the instructions on the website
 
 ## run programs as root without prompt
 
-myusername ALL = (root) NOPASSWD: /path/to/my/program
+        myusername ALL = (root) NOPASSWD: /path/to/my/program
