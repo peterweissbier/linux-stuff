@@ -6,7 +6,7 @@
 
 [One Color](https://www.xfce-look.org/p/1148918)
 
-*[Orchis theme](https://www.xfce-look.org/p/1357889)
+* [Orchis theme](https://www.xfce-look.org/p/1357889)
 
 ## faster compiling
 1. use the command >>nproc<< to check your number of cpu threads
