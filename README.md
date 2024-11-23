@@ -4,13 +4,13 @@
 
 * [Capitaine Cursors](https://www.pling.com/p/1148692)
 
+* [Orchis theme](https://www.xfce-look.org/p/1357889)
+
 XFCE
 * [One Color](https://www.xfce-look.org/p/1148918)
 
 KDE
 * [One Color](https://www.pling.com/p/1428532)
-
-* [Orchis theme](https://www.xfce-look.org/p/1357889)
 
 ## faster compiling
 1. use the command >>nproc<< to check your number of cpu threads
