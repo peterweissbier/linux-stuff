@@ -1,10 +1,14 @@
-## (xfce) icons & themes
+## icons & themes
 
 * [FairyWren-Icon-Set](https://www.pling.com/p/1684521)
 
 * [Capitaine Cursors](https://www.pling.com/p/1148692)
 
+XFCE
 * [One Color](https://www.xfce-look.org/p/1148918)
+
+KDE
+* [One Color](https://www.pling.com/p/1428532)
 
 * [Orchis theme](https://www.xfce-look.org/p/1357889)
 
