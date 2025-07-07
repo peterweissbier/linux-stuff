@@ -1,6 +1,6 @@
 ## icons & themes
 
-* [FairyWren-Icon-Set](https://www.pling.com/p/1684521)
+* [FairyWren-Icons](https://gitlab.com/FreshDoctor/FairyWren-Icons)
 
 * [Capitaine Cursors](https://www.pling.com/p/1148692)
 
