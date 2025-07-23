@@ -1,7 +1,5 @@
 ## icons & themes
 
-* [FairyWren-Icons](https://gitlab.com/FreshDoctor/FairyWren-Icons)
-
 * [Capitaine Cursors](https://www.pling.com/p/1148692)
 
 * [Orchis theme](https://www.xfce-look.org/p/1357889)
